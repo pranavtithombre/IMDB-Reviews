@@ -1,5 +1,3 @@
-# IMDB-Reviews
-
 # IMDB Sentiment Analysis
 
 A simple Flask-based web application that predicts the sentiment of IMDb movie reviews using a pre-trained Machine Learning model.
